@@ -1,2 +1,2 @@
 集成 volley 的一些hole 封装 retrofit 的一些技巧
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://raw.github.com/ationgithub/retrofit-okhttp-volley_hole/blob/master/img-folder/20160820085753815.jpg)
